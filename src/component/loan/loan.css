@@ -1,0 +1,13 @@
+.loan {
+  width: 400px;
+  text-align: center;
+  padding: 16px;
+  border-radius: 32px;
+  box-shadow: 1px 1px 4px 1px #b5b2b2;
+}
+.detail-list {
+  list-style: none;
+}
+.detail {
+  font-size: 20px;
+}
